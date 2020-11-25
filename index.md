@@ -15,23 +15,24 @@ Complexion :Fair
 Occpation : Software Engineer
 Address : 2-84 ,Damuluru ,Ibrahimpatnum ,Krishna ,Andhra Pradesh ,PIN: 521180
 
- Working : 
+Working : 
 
 ITC Infotech , Bangalore
 
- Education :
+Education :
 
 Post Graduation : Masters in VLSI Technology From Nimra Institute of Sci & Technology
 
 Under Graduation : Graduate in Electronics From Nimra Institute of Sci & Technology
 
- Family :
+Family :
 
 Father : SHAIK JANI 
 Mother : SHAIK MALLIN
 Brother : SHAIK CHOTE BASHA
 
- Social Media : 
+Social Media : 
+
 https://www.facebook.com/bademia.babu
 https://www.linkedin.com/in/bademia-babu-72898481/
 https://twitter.com/BabuBademia
