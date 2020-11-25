@@ -5,7 +5,6 @@
 babu20.c2s@gmail.com
 
 ```markdown
-Syntax highlighted code blue
 
 DOB : 25-04-1992
 Height : 5'.11'
@@ -14,17 +13,19 @@ Complexion :Fair
 Occpation : Software Engineer
 Address : 2-84 ,Damuluru ,Ibrahimpatnum ,Krishna ,Andhra Pradesh ,PIN: 521180
 
+Education :
+
+Post Graduation : Masters in VLSI Technology From Nimra Institute of Sci & Technology
+
+Under Graduation : Graduate in Electronics From Nimra Institute of Sci & Technology
+
+Family :
+
+Father : SHAIK JANI 
+Mother : SHAIK MALLIN
+Brother : SHAIK CHOTE BASHA
+
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://www.istockphoto.com/photo/mata-atlantica-atlantic-forest-in-brazil-gm935746242-256021567?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&referrer_url=https%3A//pixabay.com/images/search/nature/&utm_term=nature](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shaikbademiababu/info.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
