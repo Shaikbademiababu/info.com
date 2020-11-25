@@ -2,9 +2,9 @@
 
 ### +91 9491786213
 
- babu20.c2s@gmail.com
+### babu20.c2s@gmail.com
 
- ITC Infotech
+### ITC Infotech
 
 ```markdown
 
