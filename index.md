@@ -1,11 +1,11 @@
 ## SHAIK BADEMIA BABU
 
-### Markdown
+### +91 9491786213
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+babu20.c2s@gmail.com
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code blue
 
 DOB : 25-04-1992
 Height : 5'.11'
