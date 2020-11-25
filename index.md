@@ -1,11 +1,5 @@
 ## SHAIK BADEMIA BABU
 
-DOB : 25-04-1992
-Height : 5'.11''
-Weight : 70kg
-Complexion : Fair
-Occpation : Software Engineer
-Address : 2-84 ,Damuluru ,Ibrahimpatnum ,Krishna ,Andhra Pradesh ,PIN: 521180
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -13,16 +7,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-DOB. Numbered
-Height. List
-Weight.
+DOB : 25-04-1992
+Height : 5'.11'
+Weight : 70kg
+Complexion :Fair
+Occpation : Software Engineer
+Address : 2-84 ,Damuluru ,Ibrahimpatnum ,Krishna ,Andhra Pradesh ,PIN: 521180
 
 **Bold** and _Italic_ and `Code` text
 
