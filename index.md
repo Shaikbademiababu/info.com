@@ -2,7 +2,9 @@
 
 ### +91 9491786213
 
-babu20.c2s@gmail.com
+### babu20.c2s@gmail.com
+
+### ITC Infotech , Banglore 
 
 ```markdown
 
@@ -12,6 +14,8 @@ Weight : 70kg
 Complexion :Fair
 Occpation : Software Engineer
 Address : 2-84 ,Damuluru ,Ibrahimpatnum ,Krishna ,Andhra Pradesh ,PIN: 521180
+
+Workin
 
 Education :
 
@@ -25,7 +29,7 @@ Father : SHAIK JANI
 Mother : SHAIK MALLIN
 Brother : SHAIK CHOTE BASHA
 
-**Bold** and _Italic_ and `Code` text
+Social Media : 
+https://www.facebook.com/bademia.babu
 
-[https://www.istockphoto.com/photo/mata-atlantica-atlantic-forest-in-brazil-gm935746242-256021567?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&referrer_url=https%3A//pixabay.com/images/search/nature/&utm_term=nature](url) and ![Image](src)
 ```
